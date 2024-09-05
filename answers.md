@@ -31,5 +31,12 @@ Answer 7: it says,
 On branch master 
 nothing to commit, working tree clean
 
+Answer 8: it says, 
+commit af87f8a6607035268bc55004f5248b3d43c7ab23 (HEAD -> master)
+Author: Noah Joseph <nj359223@ohio.edu>
+Date:   Thu Sep 5 15:41:27 2024 -0400
+
+    Initial commit
+
 
 
