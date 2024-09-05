@@ -25,5 +25,11 @@ Changes to be committed:
         new file:   README.md
         new file:   answers.md
 
+Answer 6: The file will be red when unsaved and untracked and green when saved and tracked. 
+
+Answer 7: it says,
+On branch master 
+nothing to commit, working tree clean
+
 
 
